@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>hello from app2</h1>
+      <h1>Hello from the main tesdt</h1>
     </>
   )
 }
